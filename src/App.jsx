@@ -25,7 +25,14 @@ function Home(){
  )
 }
 
+function M(){
 
+  return(
+    <h1>Home,  React Router</h1>
+   )
+
+
+}
 function App() {
   const [count, setCount] = useState(0)
 
