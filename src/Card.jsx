@@ -1,5 +1,5 @@
 
-import rafapic from './assets/rafa.jpg'
+import rafapic from './assets/images/rafa.jpg'
 
 import './assets/css/rafa.css'
 
