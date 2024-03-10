@@ -44,7 +44,8 @@ function App() {
     <nav className="navbar">
    <Link to = "/">Home   </Link>&nbsp;|&nbsp;
    <Link to = "/about">About </Link>&nbsp;|&nbsp;
-   <Link to = "/members">Members   </Link>
+   <Link to = "/members">Members   </Link>&nbsp;|&nbsp;
+   <Link to = "/card">Card   </Link>
    </nav>
 
    </header>
@@ -53,6 +54,7 @@ function App() {
       <Route path="/" element={<Home/>}   />
       <Route path="/about" element={<About/>}   />
       <Route path="/members" element={<Members/>}   />
+      <Route path="/card" element={<Card/>}   />
 
       
       
