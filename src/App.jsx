@@ -25,7 +25,7 @@ function Home(){
  )
 }
 
-function M(){
+function M2(){
 
   return(
     <h1>Home,  React Router</h1>
